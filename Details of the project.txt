@@ -1,0 +1,35 @@
+COURIER SERVICE
+1. Introduction
+In our cities, we often see a few men rushing here and there in vehicles, 
+wearing different colored clothes, and carrying huge backpacks.
+ Yes, we are talking about couriers. A courier is like a genie: you make a wish, 
+and there he appears with a parcel at your doorstep, fulfilling it.
+ These men work day and night to make sure our parcels reach us on time and without any damage.
+However, in many cases couriers tend to get lost finding their way through the 
+city and often use unfamiliar roads to reach their destination.
+ This can lead to delayed deliveries and unnecessary complications due to human error. 
+Replacing the couriers with Autonomous Courier Robots will not only reduce
+ the manual transportation tasks, but also increase the efficiency of delivering
+ parcels on time along with reduced labor costs for the courier companies.
+
+
+c. Hardware Specifications
+4.1 Use of Raspberry Pi:
+? All participating teams must use only the Raspberry Pi B+ sent to them in the kit. Only one Raspberry Pi B+ is allowed per team.
+? The Raspberry Pi robot programmed by the teams should be completely autonomous.
+4.2 Components:
+? Along with the Raspberry Pi, teams have been given an Edimax Wifi Dongle, a 8GB memory card, 
+an Intex USB Camera, a Zoook 5000 mAH Power Bank, a Chassis and other accessories in the Robotic Kit.
+4.3 Power Supply:
+? The Raspberry Pi can be powered through the Power Bank that is shipped in the kit.
+
+.
+
+
+d. Software Specifications
+? Raspbian image that can be downloaded using the link provided in the “Installing Operating System Images on Raspberry Pi” 
+tutorial that will be made available to the teams. This image has all the softwares and drivers pre-installed.
+? The teams must use OpenCV and Python to write their code.
+? You are allowed to use only inbuilt Python Libraries. Use of any other external libraries is not allowed and will result in disqualification.
+
+For exact theme details for this raspberry pi based Digital Image Processing Project, contact: om.vedvasu@gmail.com
